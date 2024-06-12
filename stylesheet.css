@@ -1,0 +1,382 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body
+{
+    background-image: url(https://i.imgur.com/CEZgBPX.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: none;
+}
+
+#titulo
+{
+    font-size: 80px;
+    font-style: normal;
+    text-align: center;
+    color: white;
+}
+header
+{
+    background-image:   
+    url(https://www.eluniversal.com.mx/resizer/u6PR-a9rVuW8AOGNjHJHehOXN1w=/1100x666/cloudfront-us-east-1.images.arcpublishing.com/eluniversal/7XJRMAGGMVCANO4CHQOWSSN65U.jpg);
+    background-repeat: no-repeat;
+    background-position: center 15% ;
+    background-size:cover;
+    padding:4rem ;
+    color:rgb(253, 236, 0);
+    margin-bottom: 3rem ;
+}
+
+.monta
+{
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    margin: 120px;
+}
+
+#imgmonta
+{
+    max-width: 300px;
+    float:left ;
+    margin-right: 8rem;
+    border-radius: 10px;
+}
+
+.text1
+{
+    color: white;
+}
+
+.text1 h1
+{
+    font-size: 48px;
+    text-align: center;
+}
+
+.text1 p
+{
+    font-size: 32px;
+}
+
+.insano
+{
+    display:flex ;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    margin: 120px;
+}
+
+#sherk
+{
+    max-width: 300px;
+    float: left;
+    margin-right: 8rem ;
+    border-radius: 10px;
+}
+
+.text2
+{
+    color: white;
+}
+
+.text2 h1
+{
+    font-size: 48px;
+    text-align: center;
+}
+
+.text2 p
+{
+    font-size: 32px;
+}
+
+.mazo1
+{
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    margin: 120px;
+}
+
+.mazo1 img
+{
+    max-width: 500px;
+    margin-right: 8rem;
+    float:left;
+    border-radius: 12px;
+}
+
+.text3
+{
+    color: white;
+}
+
+.text3 h1
+{
+    font-size: 42px;
+    text-align: center;
+}
+
+.text3 h2
+{
+    text-align: center;
+   font-size: 38px;
+}
+
+.text3 p
+{
+    font-size: 32px;
+}
+
+.mazo2
+{
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+    align-items:center ;
+    margin: 120px;
+}
+
+.mazo2 img
+{
+    max-width: 500px;
+    margin-right: 8rem;
+    border-radius: 9px;
+}
+
+.text4
+{
+    color: white;
+}
+
+.text4 h1
+{
+    font-size: 42px;
+    text-align: center;
+}
+
+.text4 h2
+{
+    text-align: center;
+    font-size: 38px;
+}
+
+.text4 p
+{
+    font-size: 32px;
+}
+
+.mazo3
+{
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    margin: 120px;
+}
+
+.mazo3 img
+{
+    max-width: 500px;
+    margin-right: 8rem;
+    border-radius: 9px;
+}
+
+.text5
+{
+    color: white;
+}
+
+.text5 h1
+{
+    text-align: center;
+    font-size: 42px;
+}
+
+.text5 h2
+{
+    text-align: center;
+    font-size: 38px;
+}
+
+.text5 p
+{
+    font-size: 32px;
+}
+
+.mazo4
+{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    align-items: center;
+    margin: 120px;
+}
+
+.mazo4 img
+{
+    max-width:500px;
+    border-radius: 9px;
+    margin-right: 8rem;
+}
+
+.text6
+{
+    color: white;
+}
+
+.text6 h1
+{
+    text-align: center;
+    font-size: 42px;
+}
+
+.text6 h2
+{
+    text-align: center;
+    font-size: 38px;
+}
+
+.text6 p
+{
+    font-size: 32px;
+}
+
+.mazo5
+{
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    margin: 120px;
+}
+
+.mazo5 img
+{
+    max-width: 500px;
+    border-radius: 9px;
+    margin-right: 8rem;
+}
+
+.text7
+{
+    color: white;
+}
+
+.text7 h1
+{
+    text-align: center;
+    font-size: 42px;
+}
+
+.text7 h2
+{
+    text-align: center;
+    font-size: 38px;
+}
+
+.text7 p
+{
+    font-size: 32px;
+}
+
+.mazo6
+{
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    margin: 120px;
+}
+
+.mazo6 img
+{
+    max-width: 500px;
+    border-radius: 9px;
+    margin-right: 8rem;
+}
+
+.text8
+{
+    color: white;
+}
+
+.text8 h1
+{
+    text-align: center;
+    font-size: 42px;
+}
+
+.text8 p
+{
+    font-size: 32px;
+}
+
+.mazo7
+{
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    margin: 120px;
+}
+
+.mazo7 img
+{
+    max-width: 500px;
+    border-radius: 9px;
+    margin-right: 8rem;
+}
+
+.text9
+{
+    color: white;
+}
+
+.text9 h1
+{
+    text-align: center;
+    font-size: 42px;
+}
+
+.text9 p
+{
+    font-size: 32px;
+}
+
+.mazo8
+{
+    display: flex;
+    text-align: justify;
+    justify-content: center;
+    align-items: center;
+    margin: 120px;
+}
+
+.mazo8 img
+{
+    max-width: 500px;
+    border-radius: 10px;
+    margin-right: 8rem;
+}
+
+.text10
+{
+    color:white;
+}
+
+.text10 h1
+{
+    text-align: center;
+    font-size: 42px;
+}
+
+.text10 p
+{
+    font-size: 32px
+}
